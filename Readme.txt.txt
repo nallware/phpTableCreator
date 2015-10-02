@@ -1,0 +1,1 @@
+This php function will take sql query string, and connection details.  It will return a collection of table rows.
